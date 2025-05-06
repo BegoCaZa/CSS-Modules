@@ -1,0 +1,25 @@
+.button {
+  width: 120px;
+  background-color: white;
+  border: 2px solid #ffffff;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: white;
+}
+
+.orange {
+  color: #e28625;
+}
+
+.blue {
+  color: #006971;
+}
+
+.green {
+  color: #004140;
+}

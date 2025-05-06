@@ -1,0 +1,41 @@
+.card {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 48px;
+  gap: 25px;
+  /* border-radius: 20px; */
+}
+
+.orange {
+  background-color: #e28625;
+}
+
+.blue {
+  background-color: #006971;
+}
+
+.green {
+  background-color: #004140;
+}
+
+.image {
+  width: 64px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-family: 'Big Shoulders', sans-serif;
+  font-size: 40px;
+  color: white;
+  margin: 0;
+}
+
+.text {
+  font-size: 14px;
+  color: white;
+  margin: 0;
+  font-weight: 300;
+}
