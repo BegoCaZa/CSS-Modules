@@ -1,7 +1,9 @@
 .container {
   display: flex;
   flex-direction: column;
-  border-radius: 20px;
+  border-radius: 10px;
+ overflow: hidden; 
+ /* mascara de recorte */
 }
 
 @media screen and (min-width: 768px) {

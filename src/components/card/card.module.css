@@ -10,16 +10,17 @@
 }
 
 .orange {
-  background-color: #e28625;
+  background-color: var(--color-orange);
 }
 
 .blue {
-  background-color: #006971;
+  background-color: var(--color-blue);
 }
 
 .green {
-  background-color: #004140;
+  background-color: var(--color-green);
 }
+
 
 .image {
   width: 64px;

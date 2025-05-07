@@ -1,3 +1,9 @@
+:root{
+  --color-orange:#e28625;
+  --color-blue: #006971;
+  --color-green:#004140;
+}
+
 *,
 *::after,
 *::before {
